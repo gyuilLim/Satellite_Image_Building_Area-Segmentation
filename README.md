@@ -1,4 +1,4 @@
-[Competition](./fig/competition.png)
+![Competition](./fig/competition.png)
 
 # SW중심대학 공동 AI 경진대회 2023 - Satellite Image Segmentation
 This repository contains the solution for the 2023 SW-centered University Joint AI Competition hosted by DACON ([Competition Link](https://dacon.io/competitions/official/236092/overview/description)). Our team achieved top performance in satellite image segmentation.
